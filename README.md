@@ -1,1 +1,1 @@
-automation framework capable of supporting UI, web services, and BDD.
+Automation framework capable of supporting UI, web services, and BDD.
