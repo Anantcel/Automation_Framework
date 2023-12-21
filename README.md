@@ -15,7 +15,7 @@ This repository contains a collection of sample projects and libraries that demo
 To set up the framework, you can either fork or clone the repository
 
 ## Running Sample Tests
-To run features on the browser, Go to the CucumberTestOptions class and run the class with JUnit. You will see that all the test cases pass along with all the functionality that can run.
+Go to the CucumberTestOptions class and use JUnit to run the class in order to test features on the browser. You'll observe that every test case passes and every possible piece of functionality is operational.
 
 ## BDD Automation with Cucumber-Java and Page Objects
 In this repository, we encourage the use of Behavior-Driven Development (BDD) with Cucumber and Java to develop automation scripts.
