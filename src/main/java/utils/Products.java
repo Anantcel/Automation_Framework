@@ -2,7 +2,7 @@ package utils;
 
 public enum Products {
 
-	APPLE_TV("Apple TV", 89);
+	Backpack("Backpack", 89);
 
 	private int productId;
 	private String displayName;
